@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+SQLAlchemy==1.4.49
+pydantic==1.10.11
+python-multipart==0.0.6
+celery==5.3.1
+redis==4.5.5
+pytest==7.4.0
+python-dotenv==1.0.0
